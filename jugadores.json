@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "613ec2fa7973d6b32ce1eae4"
+  },
+  "goles": 4
+},{
+  "_id": {
+    "$oid": "613ec2fa7973d6b32ce1eae5"
+  },
+  "Nombre": "Neymar",
+  "Equipo": "Brasil",
+  "Posicion": "Extremo",
+  "Goles": 0,
+  "Activo": true,
+  "tarjetas": [
+    {
+      "TarjetasAmarillas": 0,
+      "TarjetasRojas": 0
+    }
+  ],
+  "SancionActiva": false
+},{
+  "_id": {
+    "$oid": "613ec2fa7973d6b32ce1eae6"
+  },
+  "goles": 4
+},{
+  "_id": {
+    "$oid": "613ec2fa7973d6b32ce1eae7"
+  },
+  "Nombre": "Arturo Vidal",
+  "Equipo": "Chile",
+  "Posicion": "Volante",
+  "Goles": 0,
+  "Activo": true,
+  "tarjetas": [
+    {
+      "TarjetasAmarillas": 0,
+      "TarjetasRojas": 0
+    }
+  ],
+  "SancionActiva": false
+},{
+  "_id": {
+    "$oid": "613ec2fa7973d6b32ce1eae8"
+  },
+  "Nombre": "Wilker fariñez",
+  "Equipo": "Venezuela",
+  "Posicion": "Arquero",
+  "Goles": 0,
+  "Activo": true,
+  "tarjetas": [
+    {
+      "TarjetasAmarillas": 0,
+      "TarjetasRojas": 0
+    }
+  ],
+  "SancionActiva": false
+}]

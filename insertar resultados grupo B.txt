@@ -1,0 +1,100 @@
+db.encuentros.insert(
+[{
+  "Fecha":"2021-06-27T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Roberto Tobar",
+  "Resulado":   
+	[{
+      "Brasil" : 1,
+      "Ecuador" : 1
+	}]
+	},
+{
+  "Fecha":"2021-06-17T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Olímpico Pedro Ludovico Teixeira",
+  "Arbitro": "Eber Aquino",
+  "Resulado":   
+	[{
+      "Colombia" : 0,
+      "Venezuela" : 0
+	}]
+	},
+{
+  "Fecha":"2021-06-20T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Roberto Tobar",
+    "Resulado":   
+	[{
+      "Venezuela" : 2,
+      "Ecuador" : 2
+	}]
+	},
+{
+  "Fecha":"2021-06-17T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Patricio Loustau",
+    "Resulado":   
+	[{
+      "Brasil" : 4,
+      "Peru" : 0
+	}]
+	},
+{
+  "Fecha":"2021-06-23T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Olímpico Pedro Ludovico Teixeira",
+  "Arbitro": "Gil Manzano",
+    "Resulado":   
+	[{
+      "Peru" : 2,
+      "Ecuador" : 2
+	}]
+	},
+{
+  "Fecha":"2021-06-23T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Néstor Pitana",
+    "Resulado":   
+	[{
+      "Brasil" : 2,
+      "Colombia" : 1
+	}]
+	},
+{
+  "Fecha":"2021-06-27T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Patricio Loustau",
+    "Resulado":   
+	[{
+      "Venezuela" : 0,
+      "Peru" : 1
+	}]
+	},
+{
+  "Fecha":"2021-06-17T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Néstor Pitana",
+   "Resulado":   
+	[{
+      "Colombia" : 1,
+      "Ecuador" : 0
+	}]
+	},
+{
+  "Fecha":"2021-06-13T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Esteban Ostojich",
+    "Resulado":   
+	[{
+      "Brasil" : 3,
+      "Venezuela" : 0
+	}]
+	}]);

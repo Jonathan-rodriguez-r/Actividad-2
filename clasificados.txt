@@ -1,0 +1,4 @@
+let clasificadosGrupoA = db.equipos.find({"Grupo": "A"}).sort({"Puntos":-1, "Goles.2":-1}).limit(4);
+let clasificadosGrupoB = db.equipos.find({"Grupo": "B"}).sort({"Puntos":-1, "Goles.2":-1}).limit(4);
+clasificadosGrupoA
+clasificadosGrupoB

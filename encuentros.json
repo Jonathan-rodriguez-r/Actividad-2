@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb4e"
+  },
+  "Fecha": "2021-06-27T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Roberto Tobar",
+  "Resulado": [
+    {
+      "Brasil": 1,
+      "Ecuador": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb4f"
+  },
+  "Fecha": "2021-06-17T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Olímpico Pedro Ludovico Teixeira",
+  "Arbitro": "Eber Aquino",
+  "Resulado": [
+    {
+      "Colombia": 0,
+      "Venezuela": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb50"
+  },
+  "Fecha": "2021-06-20T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Roberto Tobar",
+  "Resulado": [
+    {
+      "Venezuela": 2,
+      "Ecuador": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb51"
+  },
+  "Fecha": "2021-06-17T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Patricio Loustau",
+  "Resulado": [
+    {
+      "Brasil": 4,
+      "Peru": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb52"
+  },
+  "Fecha": "2021-06-23T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Olímpico Pedro Ludovico Teixeira",
+  "Arbitro": "Gil Manzano",
+  "Resulado": [
+    {
+      "Peru": 2,
+      "Ecuador": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb53"
+  },
+  "Fecha": "2021-06-23T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Néstor Pitana",
+  "Resulado": [
+    {
+      "Brasil": 2,
+      "Colombia": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb54"
+  },
+  "Fecha": "2021-06-27T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Patricio Loustau",
+  "Resulado": [
+    {
+      "Venezuela": 0,
+      "Peru": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb55"
+  },
+  "Fecha": "2021-06-17T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Néstor Pitana",
+  "Resulado": [
+    {
+      "Colombia": 1,
+      "Ecuador": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fcbe740598353cabcb56"
+  },
+  "Fecha": "2021-06-13T05:00:00Z",
+  "Grupo": "B",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Esteban Ostojich",
+  "Resulado": [
+    {
+      "Brasil": 3,
+      "Venezuela": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb57"
+  },
+  "Fecha": "2021-06-14T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Wilmar Roldán",
+  "Resulado": [
+    {
+      "Argentina": 1,
+      "Chile": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb58"
+  },
+  "Fecha": "2021-06-14T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Olímpico Pedro Ludovico Teixeira",
+  "Arbitro": "Diego Haro",
+  "Resulado": [
+    {
+      "Paraguay": 3,
+      "Bolivia": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb59"
+  },
+  "Fecha": "2021-06-18T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Gil Manzano",
+  "Resulado": [
+    {
+      "Bolivia": 0,
+      "Chile": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb5a"
+  },
+  "Fecha": "2021-06-18T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Wilton Sampaio",
+  "Resulado": [
+    {
+      "Argentina": 1,
+      "Uruguay": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb5b"
+  },
+  "Fecha": "2021-06-21T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Jesús Valenzuela",
+  "Resulado": [
+    {
+      "Uruguay": 1,
+      "Chile": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb5c"
+  },
+  "Fecha": "2021-06-21T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Raphael Claus",
+  "Resulado": [
+    {
+      "Argentina": 1,
+      "Paraguay": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb5d"
+  },
+  "Fecha": "2021-06-24T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Alexis Herrera",
+  "Resulado": [
+    {
+      "Bolivia": 0,
+      "Uruguay": 2
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb5e"
+  },
+  "Fecha": "2021-06-24T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Wilmar Roldán",
+  "Resulado": [
+    {
+      "Paraguay": 2,
+      "Chile": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6147fd08740598353cabcb5f"
+  },
+  "Fecha": "2021-06-28T05:00:00Z",
+  "Grupo": "A",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Andrés Rojas",
+  "Resulado": [
+    {
+      "Argentina": 4,
+      "Bolivia": 1
+    }
+  ]
+}]

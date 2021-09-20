@@ -1,0 +1,80 @@
+db.arbitros.insert(
+[{
+  "Nombre": "Gil Manzano",
+  "Pais": "España",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Wilton Sampaio",
+  "Pais": "Brasil",
+  "CantidadPartidos": 1,
+  "Activo": true
+}, 
+{
+  "Nombre": "Esteban Ostojich",
+  "Pais": "Uruguay",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Néstor Pitana",
+  "Pais": "Argentina",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Wilmar Roldán",
+  "Pais": "Colombia",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Diego Haro",
+  "Pais": "Bolivia",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Raphael Claus",
+  "Pais": "Brasil",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Jesús Valenzuela",
+  "Pais": "Venezuela",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Alexis Herrera",
+  "Pais": "Venezuela",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Andrés Rojas",
+  "Pais": "Colombia",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Eber Aquino",
+  "Pais": "Paraguay",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Patricio Loustau",
+  "Pais": "Argentina",
+  "CantidadPartidos": 1,
+  "Activo": true
+},
+{
+  "Nombre": "Roberto Tobar",
+  "Pais": "Chile",
+  "CantidadPartidos": 1,
+  "Activo": true
+}
+]);

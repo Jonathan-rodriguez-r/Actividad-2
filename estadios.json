@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6147c731cd099c83e61811ec"
+  },
+  "Nombre": "Nilton Santos",
+  "Ciudad": "Río de Janeiro",
+  "Aforo": 44000,
+  "activo": true
+},{
+  "_id": {
+    "$oid": "6147c731cd099c83e61811ed"
+  },
+  "Nombre": "Olímpico Pedro Ludovico Teixeira",
+  "Ciudad": "Goiânia",
+  "Aforo": 13500,
+  "activo": true
+},{
+  "_id": {
+    "$oid": "6147c731cd099c83e61811ee"
+  },
+  "Nombre": "Mané Garrincha",
+  "Ciudad": "Brasilia",
+  "Aforo": 71400,
+  "activo": true
+},{
+  "_id": {
+    "$oid": "6147c731cd099c83e61811ef"
+  },
+  "Nombre": "Arena Pantanal",
+  "Ciudad": "Cuiabá",
+  "Aforo": 50000,
+  "activo": true
+}]

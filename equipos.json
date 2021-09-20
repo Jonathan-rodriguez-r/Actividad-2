@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb27"
+  },
+  "Nombre": "Argentina",
+  "Puntos": 10,
+  "Grupo": "A",
+  "Goles": [
+    7,
+    2,
+    5
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb28"
+  },
+  "Nombre": "Bolivia",
+  "Puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+    2,
+    10,
+    -8
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb29"
+  },
+  "Nombre": "Chile",
+  "Puntos": 5,
+  "Grupo": "A",
+  "Goles": [
+    3,
+    4,
+    -1
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb2a"
+  },
+  "Nombre": "Paraguay",
+  "Puntos": 6,
+  "Grupo": "A",
+  "Goles": [
+    5,
+    3,
+    2
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb2b"
+  },
+  "Nombre": "Uruguay",
+  "Puntos": 7,
+  "Grupo": "A",
+  "Goles": [
+    4,
+    2,
+    2
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb2c"
+  },
+  "Nombre": "Brasil",
+  "Puntos": 10,
+  "Grupo": "B",
+  "Goles": [
+    10,
+    2,
+    8
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb2d"
+  },
+  "Nombre": "Colombia",
+  "Puntos": 4,
+  "Grupo": "B",
+  "Goles": [
+    3,
+    4,
+    -1
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb2e"
+  },
+  "Nombre": "Ecuador",
+  "Puntos": 3,
+  "Grupo": "B",
+  "Goles": [
+    5,
+    6,
+    -1
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb2f"
+  },
+  "Nombre": "Peru",
+  "Puntos": 7,
+  "Grupo": "B",
+  "Goles": [
+    5,
+    7,
+    -2
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147e9d4740598353cabcb30"
+  },
+  "Nombre": "Venezuela",
+  "Puntos": 2,
+  "Grupo": "B",
+  "Goles": [
+    2,
+    6,
+    -4
+  ],
+  "Activo": true
+}]

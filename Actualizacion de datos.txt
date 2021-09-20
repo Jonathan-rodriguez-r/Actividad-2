@@ -1,0 +1,49 @@
+db.equipos.update({"Nombre" : "Argentina"},{$set : {"Puntos": 10}}  )
+db.equipos.update({"Nombre" : "Argentina"},{$set : {"Goles.0" : 7}});
+db.equipos.update({"Nombre" : "Argentina"},{$set : {"Goles.1" : 2}});
+db.equipos.update({"Nombre" : "Argentina"},{$set : {"Goles.2" : 5}});
+
+db.equipos.update({"Nombre" : "Uruguay"},{$set : {"Puntos": 7}}  )
+db.equipos.update({"Nombre" : "Uruguay"},{$set : {"Goles.0" : 4}});
+db.equipos.update({"Nombre" : "Uruguay"},{$set : {"Goles.1" : 2}});
+db.equipos.update({"Nombre" : "Uruguay"},{$set : {"Goles.2" : 2}});
+
+db.equipos.update({"Nombre" : "Paraguay"},{$set : {"Puntos": 6}}  )
+db.equipos.update({"Nombre" : "Paraguay"},{$set : {"Goles.0" : 5}});
+db.equipos.update({"Nombre" : "Paraguay"},{$set : {"Goles.1" : 3}});
+db.equipos.update({"Nombre" : "Paraguay"},{$set : {"Goles.2" : 2}});
+
+db.equipos.update({"Nombre" : "Chile"},{$set : {"Puntos": 5}}  )
+db.equipos.update({"Nombre" : "Chile"},{$set : {"Goles.0" : 3}});
+db.equipos.update({"Nombre" : "Chile"},{$set : {"Goles.1" : 4}});
+db.equipos.update({"Nombre" : "Chile"},{$set : {"Goles.2" : -1}});
+
+db.equipos.update({"Nombre" : "Bolivia"},{$set : {"Puntos": 0}}  )
+db.equipos.update({"Nombre" : "Bolivia"},{$set : {"Goles.0" : 2}});
+db.equipos.update({"Nombre" : "Bolivia"},{$set : {"Goles.1" : 10}});
+db.equipos.update({"Nombre" : "Bolivia"},{$set : {"Goles.2" : -8}});
+
+db.equipos.update({"Nombre" : "Brasil"},{$set : {"Puntos": 10}}  )
+db.equipos.update({"Nombre" : "Brasil"},{$set : {"Goles.0" : 10}});
+db.equipos.update({"Nombre" : "Brasil"},{$set : {"Goles.1" : 2}});
+db.equipos.update({"Nombre" : "Brasil"},{$set : {"Goles.2" : 8}});
+
+db.equipos.update({"Nombre" : "Peru"},{$set : {"Puntos": 7}}  )
+db.equipos.update({"Nombre" : "Peru"},{$set : {"Goles.0" : 5}});
+db.equipos.update({"Nombre" : "Peru"},{$set : {"Goles.1" : 7}});
+db.equipos.update({"Nombre" : "Peru"},{$set : {"Goles.2" : -2}});  
+
+db.equipos.update({"Nombre" : "Colombia"},{$set : {"Puntos": 4}}  )
+db.equipos.update({"Nombre" : "Colombia"},{$set : {"Goles.0" : 3}});
+db.equipos.update({"Nombre" : "Colombia"},{$set : {"Goles.1" : 4}});
+db.equipos.update({"Nombre" : "Colombia"},{$set : {"Goles.2" : -1}});
+
+db.equipos.update({"Nombre" : "Ecuador"},{$set : {"Puntos": 3}}  )
+db.equipos.update({"Nombre" : "Ecuador"},{$set : {"Goles.0" : 5}});
+db.equipos.update({"Nombre" : "Ecuador"},{$set : {"Goles.1" : 6}});
+db.equipos.update({"Nombre" : "Ecuador"},{$set : {"Goles.2" : -1}});
+
+db.equipos.update({"Nombre" : "Venezuela"},{$set : {"Puntos": 2}}  )
+db.equipos.update({"Nombre" : "Venezuela"},{$set : {"Goles.0" : 2}});
+db.equipos.update({"Nombre" : "Venezuela"},{$set : {"Goles.1" : 6}});
+db.equipos.update({"Nombre" : "Venezuela"},{$set : {"Goles.2" : -4}});

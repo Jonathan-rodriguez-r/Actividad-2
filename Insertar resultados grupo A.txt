@@ -1,0 +1,136 @@
+
+db.encuentros.insert
+([
+	{
+  "Fecha": {
+    "$date": "2021-06-14T05:00:00Z"
+  	   },
+  "Grupo": "A",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Wilmar Roldán",
+  "Resulado":   
+	[{
+      "Argentina" : 1,
+      "Chile" : 1
+	}]
+	},
+]);
+
+db.encuentros.insert(
+[{
+  "Fecha": {
+    "$date": "2021-06-14T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Nilton Santos",
+  "Arbitro": "Wilmar Roldán",
+  "Resulado":   
+	[{
+      "Argentina" : 1,
+      "Chile" : 1
+	}]
+	},
+{
+  "Fecha": {
+    "$date": "2021-06-14T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Olímpico Pedro Ludovico Teixeira",
+  "Arbitro": "Diego Haro",
+  "Resulado":   
+	[{
+      "Paraguay" : 3,
+      "Bolivia" : 1
+	}]
+	},
+{
+  "Fecha": {
+    "$date": "2021-06-18T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Gil Manzano",
+    "Resulado":   
+	[{
+      "Bolivia" : 0,
+      "Chile" : 1
+	}]
+	},
+{
+  "Fecha": {
+    "$date": "2021-06-18T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Wilton Sampaio",
+    "Resulado":   
+	[{
+      "Argentina" : 1,
+      "Uruguay" : 0
+	}]
+	},
+{
+  "Fecha": {
+    "$date": "2021-06-21T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Jesús Valenzuela",
+    "Resulado":   
+	[{
+      "Uruguay" : 1,
+      "Chile" : 1
+	}]
+	},
+{
+  "Fecha": {
+    "$date": "2021-06-21T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Raphael Claus",
+    "Resulado":   
+	[{
+      "Argentina" : 1,
+      "Paraguay" : 0
+	}]
+	},
+{
+  "Fecha": {
+    "$date": "2021-06-24T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Alexis Herrera",
+    "Resulado":   
+	[{
+      "Bolivia" : 0,
+      "Uruguay" : 2
+	}]
+	},
+{
+  "Fecha": {
+    "$date": "2021-06-24T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Mané Garrincha",
+  "Arbitro": "Wilmar Roldán",
+   "Resulado":   
+	[{
+      "Paraguay" : 2,
+      "Chile" : 0
+	}]
+	},
+{
+  "Fecha": {
+    "$date": "2021-06-28T05:00:00Z"
+  },
+  "Grupo": "A",
+  "Estadio": "Arena Pantanal",
+  "Arbitro": "Andrés Rojas",
+    "Resulado":   
+	[{
+      "Argentina" : 4,
+      "Bolivia" : 1
+	}]
+	}]);

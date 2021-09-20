@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e61811fe"
+  },
+  "Nombre": "Gil Manzano",
+  "Pais": "España",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e61811ff"
+  },
+  "Nombre": "Wilton Sampaio",
+  "Pais": "Brasil",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181200"
+  },
+  "Nombre": "Esteban Ostojich",
+  "Pais": "Uruguay",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181201"
+  },
+  "Nombre": "Néstor Pitana",
+  "Pais": "Argentina",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181202"
+  },
+  "Nombre": "Wilmar Roldán",
+  "Pais": "Colombia",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181203"
+  },
+  "Nombre": "Diego Haro",
+  "Pais": "Bolivia",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181204"
+  },
+  "Nombre": "Raphael Claus",
+  "Pais": "Brasil",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181205"
+  },
+  "Nombre": "Jesús Valenzuela",
+  "Pais": "Venezuela",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181206"
+  },
+  "Nombre": "Alexis Herrera",
+  "Pais": "Venezuela",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181207"
+  },
+  "Nombre": "Andrés Rojas",
+  "Pais": "Colombia",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181208"
+  },
+  "Nombre": "Eber Aquino",
+  "Pais": "Paraguay",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e6181209"
+  },
+  "Nombre": "Patricio Loustau",
+  "Pais": "Argentina",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "6147c9bfcd099c83e618120a"
+  },
+  "Nombre": "Roberto Tobar",
+  "Pais": "Chile",
+  "CantidadPartidos": 1,
+  "Activo": true
+}]

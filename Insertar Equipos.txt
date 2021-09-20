@@ -1,0 +1,92 @@
+db.equipos.insert(
+[{
+  "Nombre": "Argentina",
+  "Puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+  "Nombre": "Bolivia",
+  "Puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+
+  "Nombre": "Chile",
+  "Puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+  "Nombre": "Paraguay",
+  "Puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+  "Nombre": "Uruguay",
+  "Puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+  "Nombre": "Brasil",
+  "Puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+  "Nombre": "Colombia",
+  "Puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+  "Nombre": "Ecuador",
+  "Puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+  "Nombre": "Peru",
+  "Puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+},
+{
+  "Nombre": "Venezuela",
+  "Puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+0,0,0
+  ],
+  "Activo": true
+}]);
